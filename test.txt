@@ -1,3 +1,7 @@
 Hello 123 branch git 123
 It is new line
 New line
+<<<<<<< HEAD
+=======
+12312
+>>>>>>> 4521e5a (Renamed and modified)
